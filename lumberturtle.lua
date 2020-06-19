@@ -1,3 +1,5 @@
+-- Made by Oktay Mercan
+-- lumberjackturtle a computercraft(Minecraft's mod) Lua sciript
 turtle.select(1)
 turtle.down(8)
 while true do
