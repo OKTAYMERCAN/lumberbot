@@ -1,5 +1,5 @@
-# lumberjackturtle v1.0
-Computercraft lumberjack turtle script.
+# Lumberbot v1.0
+Computercraft, lumberjack turtle program.
 
 Some turtle slot are dedicated to this purpose:
 * Slot 1 = Sapling slot
