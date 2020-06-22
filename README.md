@@ -1,4 +1,4 @@
-# Lumberbot v1.0
+# Lumberbot v0.5
 Computercraft, lumberjack turtle program.
 
 Some turtle slot are dedicated to this purpose:
