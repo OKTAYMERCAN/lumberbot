@@ -13,3 +13,4 @@ Feture update will be inculude this feature
 * Recive item from chest
 etc...
 
+lumberbot by Oktay Mercan is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
